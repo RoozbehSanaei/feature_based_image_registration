@@ -1,0 +1,10 @@
+detector,descriptor,model,thresh,ok,matches,inliers,inlier_ratio,mean_inlier_err_px,corner_err_px,return_code
+harris,brief,homography,2.0,True,28.0,24.0,0.8571428571428571,1.0074,1.221768,0
+harris,brief,homography,3.2,True,28.0,28.0,1.0,1.14254,0.473554,0
+harris,brief,homography,5.0,True,28.0,28.0,1.0,1.14254,0.473554,0
+harris,patch,homography,2.0,True,20.0,16.0,0.8,0.906937,0.475892,0
+harris,patch,homography,3.2,True,20.0,19.0,0.95,1.10924,0.529161,0
+harris,patch,homography,5.0,True,20.0,20.0,1.0,1.27233,0.897764,0
+harris,sift,homography,2.0,True,28.0,21.0,0.75,0.756567,1.292295,0
+harris,sift,homography,3.2,True,28.0,25.0,0.8928571428571429,1.15167,0.554771,0
+harris,sift,homography,5.0,True,28.0,26.0,0.9285714285714286,1.2784,0.899029,0
