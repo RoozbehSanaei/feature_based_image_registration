@@ -1,4 +1,4 @@
-# Feature-Based 2D Registration (No CV Libraries)
+# Feature-Based 2D Registration 
 
 This repo contains a from-scratch, feature-based 2D image registration pipeline implemented in **C++** and **Python**, without using computer-vision libraries (e.g., OpenCV). It includes a small synthetic demo, a configuration sweep harness (via CLI flags), and technical writeups.
 
